@@ -83,17 +83,16 @@ A machine learning-based system to detect fraudulent banking transactions.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheveshRhaj27&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheveshRhaj27&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contact
 
-📧 Email: yourname@email.com  
-💼 LinkedIn: https://linkedin.com/in/yourprofile  
-🌐 Portfolio: (Optional)
+📧 Email: theveshthevesh24@email.com  
+💼 LinkedIn: https://linkedin.com/in/theveshrhaj-s-6a20252a8  
 
 ---
 
