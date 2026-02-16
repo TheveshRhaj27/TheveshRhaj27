@@ -1,28 +1,44 @@
-<h1 align="center">Hi 👋, I'm Thevesh</h1>
-<h3 align="center">Artificial Intelligence & Data Science Student</h3>
+<!-- Animated Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Thevesh;Artificial+Intelligence+%26+Data+Science+Student;Machine+Learning+Enthusiast;Python+%7C+C%2B%2B+Developer;Future+AI+Engineer" />
+</p>
 
 ---
 
-## 👨‍🎓 About Me
+# 👋 Hi, I'm Thevesh
 
-🎓 B.Tech in Artificial Intelligence & Data Science  
-💻 Strong foundation in programming, system design, and machine learning  
-🚀 Passionate about building intelligent systems that solve real-world problems  
+🎓 Artificial Intelligence & Data Science Student  
+💻 Machine Learning Enthusiast  
+🚀 Passionate about building intelligent systems  
 
-I enjoy working on projects that combine logic, algorithms, and practical implementation.
-
----
-
-## 💻 Programming Languages
-
-- C  
-- C++  
-- Python  
-- Java (Basics)
+I enjoy developing intelligent applications that combine algorithms, machine learning, and efficient system design to solve real-world problems.
 
 ---
 
-## 🧠 Core Concepts
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/theveshrhaj-s-6a20252a8">
+    <img src="https://img.shields.io/badge/LinkedIn-Thevesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:theveshthevesh24@email.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
+</p>
+
+---
+
+### 🧠 Core Concepts
 
 - Data Structures and Algorithms  
 - Object-Oriented Programming (OOP)  
@@ -32,68 +48,87 @@ I enjoy working on projects that combine logic, algorithms, and practical implem
 
 ---
 
-## 🛠 Tools & Technologies
+### 🛠 Tools & Technologies
 
-- Git & GitHub  
-- VS Code  
-- MySQL  
-- Linux (Basics)  
-- Python Libraries (Pandas, NumPy, Matplotlib, Scikit-learn)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,linux,python" />
+</p>
+
+**Python Libraries:**  
+Pandas • NumPy • Matplotlib • Scikit-learn  
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Campus Navigation System
+### 🔹 Campus Navigation System  
 
 A smart navigation system designed to help users efficiently navigate within a campus environment.
 
 **Key Features:**
+
 - Shortest path calculation using graph algorithms  
 - Interactive and user-friendly interface  
 - Efficient route optimization  
 - Scalable architecture for multi-building support  
 
-**Tech Used:** Python / C++ (mention what you used), Graph Algorithms, Data Structures
+**Tech Used:**  
+Python • Graph Algorithms • Data Structures  
 
 ---
 
-### 🔹 Bank Fraud Detection System
+### 🔹 Bank Fraud Detection System  
 
 A machine learning-based system to detect fraudulent banking transactions.
 
 **Key Features:**
+
 - Data preprocessing and feature engineering  
 - Fraud classification using ML algorithms  
 - Real-time fraud detection logic  
 - Performance evaluation using accuracy metrics  
 
-**Tech Used:** Python, Pandas, Scikit-learn, SQL
-
----
-
-## ⚡ Highlights
-
-- Strong problem-solving mindset  
-- Experience working with both system-level and AI-based projects  
-- Understanding of algorithmic thinking and real-world implementation  
-- Focused on writing clean, optimized, and maintainable code  
+**Tech Used:**  
+Python • Pandas • Scikit-learn • SQL  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheveshRhaj27&show_icons=true&theme=tokyonight)
+<!-- Replace 'yourusername' with actual GitHub username -->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheveshRhaj27&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Contact
-
-📧 Email: theveshthevesh24@email.com  
-💼 LinkedIn: https://linkedin.com/in/theveshrhaj-s-6a20252a8  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
 ---
 
-⭐ Always open to learning, collaboration, and new opportunities.
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight"/>
+</p>
+
+---
+
+## ⚡ Highlights
+
+✔ Strong problem-solving mindset  
+✔ Experience in AI and system-level projects  
+✔ Strong understanding of algorithms and ML concepts  
+✔ Focused on writing clean, optimized code  
+✔ Passionate about intelligent system development  
+
+---
+
+## 🎯 Current Focus
+
+- Machine Learning Projects  
+- Artificial Intelligence Applications  
+- Data Science  
+- Real-world AI solutions  
+
+---
+
+⭐ From Thevesh
